@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"0fcb80524bb703871d809da2043e5911","lockfileHash":"3e3ac09747529fe37f457dcd6b77507b","guessedImports":["cookie","@replit/database","express","socket.io","@socket.io/admin-ui","socket.io-client"],"guessedImportsHash":"a25aef0e103375ee433bce7e04a2f000"}}}
